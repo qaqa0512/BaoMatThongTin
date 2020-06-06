@@ -1,0 +1,17 @@
+T?o file: 
+
+git clone + duongdan
+
+
+
+
+
+T?i lên github:
+
+git add .
+
+git status
+
+git commit -m "asdasd" (""t? ch?n)
+
+git push
